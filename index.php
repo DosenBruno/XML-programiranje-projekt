@@ -32,10 +32,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 function provjera($username, $pass, $xml) {
     $x = 0;
     $i = 0;
-    $provjera = true;
+
     global $notice_pass;
     global $notice_usern;
 	foreach ($xml->user as $usr) {
+        
         $i++;
         $info = $usr->basic_info;
         $usrn = $info->username;
@@ -52,11 +53,12 @@ function provjera($username, $pass, $xml) {
 			}
             else {
                 $x++;
-                if($i === $x) {
-                    $notice_usern = 'Korisničko ime ne postoji';
-                }
             }        
 		}
+
+        if($i === $x) {
+            $notice_usern = 'Korisničko ime ne postoji';
+        }
 
 	return;
 }
