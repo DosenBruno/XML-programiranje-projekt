@@ -1,0 +1,56 @@
+/*Login/sign-up*/
+
+.login {
+    background-color: #f0f0f0;
+}
+
+.box-container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 .8rem 2rem rgba(0,0,0,.15);
+}
+
+.signup {
+    color: black;
+    text-decoration: none;
+    position: relative;
+    top: 10px;
+    text-align: center;
+}
+
+.signup:active, .signup:hover {
+    text-decoration: 1px underline black;
+    color: black;
+}
+
+.error {
+    color: red; font-style: italic;
+}
+
+/*Home*/
+.link_reset, .link_reset:active, .link_reset:hover {
+    color: white;
+    text-decoration: none;
+    
+}
+
+.wrapper {
+    background-image: url(images/banner-home.jpg);
+    background-repeat: no-repeat; background-size: cover; background-attachment: fixed;
+    background-color: #aa7649; background-position: center center;
+    width: 100%;
+}
+
+.quote {
+    color: white; font-style: italic; font-weight: lighter;
+}
+
+label.hidden {
+    display: none;
+}
+
+.center {
+    margin: 0 auto;
+    display: block;
+}
