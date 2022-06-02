@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <basic_info>
+            <name>Pero</name>
+            <lastname>perić</lastname>
+            <username>user1</username>
+            <email>pero@xyz.com</email>
+            <pass>1234</pass>
+            <year>2000</year>
+        </basic_info>
+    </user>
+</users>
