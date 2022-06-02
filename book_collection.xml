@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="home.xsl" type="text/xsl"?>
+
+<books>
+    <book isbn="1442472421">
+        <basic_info>
+            <title>Scythe (Arc of a Scythe, #1)</title>
+            <author>Neal Shusterman</author>
+            <publisher>Simon Schuster Books for Young Readers</publisher>
+            <year_published>2016</year_published>
+            <genres>
+                <genre_1>Young Adult</genre_1>
+                <genre_2>Science Fiction</genre_2>
+            </genres>
+            <description>A world with no hunger, no disease, no war, no misery. Humanity has conquered all those things, and has even conquered death. Now scythes are the only ones who can end life, and they are commanded to do so, in order to keep the size of the population under control.</description>
+            <cover>images/scythe.jpg</cover>
+            <price>21,02</price>
+        </basic_info>
+        <additional_info>
+            <pages>448</pages>
+            <edition>Hardback</edition>
+            <language>ENG</language>
+            <average_rating>4,33</average_rating>
+        </additional_info>
+    </book>
+
+    <book isbn="9780552565974">
+        <basic_info>
+            <title>Wonder</title>
+            <author>R. J. Placio</author>
+            <publisher>Penguin Random House Children's UK</publisher>
+            <year_published>2013</year_published>
+            <genres>
+                <genre_1>Middle grade</genre_1>
+                <genre_2>Contemporary</genre_2>
+            </genres>
+            <description>August Pullman was born with a facial difference that, up until now, has prevented him from going to a mainstream school. Starting 5th grade at Beecher Prep, he wants nothing more than to be treated as an ordinary kid, but his new classmates can&apos;t get past Auggie&amp;s extraordinary face. Wonder, begins from Auggie&amp;s point of view, but soon switches to include his classmates, his sister, her boyfriend, and others.</description>
+            <cover>images/wonder.jpg</cover>
+            <price>9,25</price>
+        </basic_info>
+        <additional_info>
+            <pages>320</pages>
+            <edition>Paperback</edition>
+            <language>ENG</language>
+            <average_rating>4,39</average_rating>
+        </additional_info>
+    </book>
+
+    <book isbn="9780006479888">
+        <basic_info>
+            <title>A Game of Thrones (A Song of Ice and Fire #1)</title>
+            <author>George R. R. Martin</author>
+            <publisher>HarperCollins Publishers</publisher>
+            <year_published>2009</year_published>
+            <genres>
+                <genre_1>Adult</genre_1>
+                <genre_2>Fantasy</genre_2>
+            </genres>
+            <description>Long ago, in a time forgotten, a preternatural event threw the seasons out of balance. In a land where summers can last decades and winters a lifetime, trouble is brewing. The cold is returning, and in the frozen wastes to the north of Winterfell, sinister and supernatural forces are massing beyond the kingdom’s protective Wall. At the center of the conflict lie the Starks of Winterfell, a family as harsh and unyielding as the land they were born to. Sweeping from a land of brutal cold to a distant summertime kingdom of epicurean plenty, here is a tale of lords and ladies, soldiers and sorcerers, assassins and bastards, who come together in a time of grim omens.</description>
+            <cover>images/gotr.jpg</cover>
+            <price>11,33</price>
+        </basic_info>
+        <additional_info>
+            <pages>864</pages>
+            <edition>Paperback</edition>
+            <language>ENG</language>
+            <average_rating>4,44</average_rating>
+        </additional_info>
+    </book>
+
+    <book isbn="9781982147662">
+        <basic_info>
+            <title>The Seven Husbands of Evelyn Hugo</title>
+            <author>Taylor Jenkins Reid</author>
+            <publisher>Simon &amp; Schuster</publisher>
+            <year_published>2020</year_published>
+            <genres>
+                <genre_1>Adult</genre_1>
+                <genre_2>Historical fiction</genre_2>
+            </genres>
+            <description>Aging and reclusive Hollywood movie icon Evelyn Hugo is finally ready to tell the truth about her glamorous and scandalous life. But when she chooses unknown magazine reporter Monique Grant for the job, no one is more astounded than Monique herself. Why her? Why now?</description>
+            <cover>images/seven.jpg</cover>
+            <price>15,56</price>
+        </basic_info>
+        <additional_info>
+            <pages>400</pages>
+            <edition>Paperback</edition>
+            <language>ENG</language>
+            <average_rating>4,48</average_rating>
+        </additional_info>
+    </book>
+
+</books>
